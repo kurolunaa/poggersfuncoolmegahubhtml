@@ -9,13 +9,22 @@ body {
     color: white;
 }
 
-h1 {
+.warning{
+    color: red;
+    
+}
+
+.mainheader {
     color:yellow;
     background-color: green;
     border: 2px brown;
     border-radius: 10px;
     border-left: 50px;
-    padding-left: 100px;
+    text-align: center;
+}
+
+.firstpara {
+    color: crimson;
 }
 
 h6 {
@@ -27,19 +36,28 @@ h6 {
     color: white;
 }
 
-.wickedsick{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.johnxina{
+    float: right;
 }
+
+.nuts{
+    font-size: 20px;
+    }
 
 .image{
     max-width: 100%;
     max-height: 100%;
 }
 
-.nuts{
-font-size: 20px;
-padding-left: 20px;
+.damedonny {
+    float: left;
+}
 
+.johnyakuza {
+    float:left;
+}
+
+.baka-snow-halation-mitai {
+    padding: 50px;
+    padding-left: 500px;
 }
